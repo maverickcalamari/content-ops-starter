@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: informational consultation
+      label: INformation technology consultation
       color: text-primary
       type: Badge
     elementId: ''
