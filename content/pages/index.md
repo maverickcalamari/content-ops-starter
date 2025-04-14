@@ -10,7 +10,7 @@ sections:
     subtitle: >-
       IT Experts Recruitment & Talent Solutions | Bridging Top Tech Talent with
       Industry Leaders
-    text: "### What We Do\n\n\_Help companies build a strong tech workforce with pre-vetted, job-ready candidates\n\nSource talent from top bootcamps like Per Scholas, NPower, and other leading training programs\n\nPrepare candidates for success with industry-aligned coaching and interview readiness training\n\n\n\n\n"
+    text: "### What We Do\n\n\_Help companies build a strong tech workforce with pre-vetted, job-ready candidates\n\n"
     actions:
       - label: Get started
         altText: ''
