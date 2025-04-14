@@ -10,7 +10,7 @@ sections:
     subtitle: >-
       IT Experts Recruitment & Talent Solutions | Bridging Top Tech Talent with
       Industry Leaders
-    text: "### What We Do\n\n\_Help companies build a strong tech workforce with pre-vetted, job-ready candidates\n\n"
+    text: ''
     actions:
       - label: Get started
         altText: ''
