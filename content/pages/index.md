@@ -40,6 +40,9 @@ sections:
       label: INformation technology consultation
       color: text-primary
       type: Badge
+      styles:
+        self:
+          fontWeight: 700
     elementId: ''
     colors: bg-light-fg-dark
     styles:
